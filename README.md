@@ -1,6 +1,5 @@
 # Yo! 🤙 I'm Patryk
-I'm a upcoming javascript developer.<br>
-Currently working at <a href="https://curbfood.com/">Curbfood</a> to satisfy my passion for cooking. <br>
+I'm a upcoming web developer.<br>
 Having a hard time to accepting something that's "decent", I always strive to improve things and learn more about the unknown. 😃
 
 
